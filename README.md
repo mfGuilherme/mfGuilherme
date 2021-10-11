@@ -1,4 +1,4 @@
-Olá sou Guilherme Morais 
+Olá sou Guilherme Morais estudante de programação.
 
 <div align="center">
   <a href="https://github.com/mfGuilherme">
